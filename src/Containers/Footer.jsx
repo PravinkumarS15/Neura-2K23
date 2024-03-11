@@ -17,7 +17,7 @@ const Footer = () => {
         Built by <a href="https://www.linkedin.com/in/vikram-palani" target='_blank'>
                       <span className='z-10 hover:text-gold'>&lt;Vikram/&gt;</span>
                     </a> 
-                    <span className='z-10 hover:text-gold'>and</span>
+                    <span className='z-10 hover:text-gold'>&</span>
                     <a href="https://www.linkedin.com/in/pravin-s-28067528a/" target='_blank'>
                       <span className='z-10 hover:text-gold'>&lt;Pravinkumar/&gt;</span>
                       <span className='animate-pulse z-10'>🖤</span>
